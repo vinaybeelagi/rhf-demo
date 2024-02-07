@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rhf-form/static/css/main.237abd43.css",
+    "main.js": "/rhf-form/static/js/main.d572de6b.js",
+    "static/js/592.0ff676be.chunk.js": "/rhf-form/static/js/592.0ff676be.chunk.js",
+    "index.html": "/rhf-form/index.html",
+    "main.237abd43.css.map": "/rhf-form/static/css/main.237abd43.css.map",
+    "main.d572de6b.js.map": "/rhf-form/static/js/main.d572de6b.js.map",
+    "592.0ff676be.chunk.js.map": "/rhf-form/static/js/592.0ff676be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.237abd43.css",
+    "static/js/main.d572de6b.js"
+  ]
+}
